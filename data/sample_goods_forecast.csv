@@ -1,0 +1,4 @@
+﻿forecast_id,section,expected_start_time,expected_end_time,probability,traffic_level
+GF-01,SEC-KZJ,01:00,05:00,0.85,High
+GF-02,SEC-KZJ,11:00,14:00,0.40,Medium
+GF-07,WL-BZA,13:00,15:30,0.25,Low

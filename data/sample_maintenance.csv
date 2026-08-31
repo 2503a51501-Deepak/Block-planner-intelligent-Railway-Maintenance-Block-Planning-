@@ -1,0 +1,4 @@
+﻿task_id,department,asset_id,section,location,task_type,description,severity,asset_criticality,due_date,overdue_days,estimated_duration_hours,required_team,status,requires_power_block,requires_traffic_block
+TMS-001,Engineering,TRK-WL-142,WL-BZA,Km 142/10-14 Up Main,USFD Rail Flaw Defect,Urgent IMR rail flaw detected during ultrasonic testing,Critical,Critical,2026-08-28,3,2.0,P-Way Gang 04 (Warangal),Overdue,0,1
+TDMS-001,Traction,OHE-WL-143,WL-BZA,Km 143/02-08 Up Line,OHE Cantilever Overhaul,Cantilever insulator flashover observed,High,High,2026-08-29,2,1.0,TRD Tower Wagon Unit A,Overdue,1,1
+SMMS-001,Signal & Telecom,SIG-WL-108,WL-BZA,Dornakal Jn Facing Point 108B,Point Machine Overhaul,High friction and timing deviation,High,High,2026-08-30,1,1.0,S&T Signal Unit 02,Pending,0,1

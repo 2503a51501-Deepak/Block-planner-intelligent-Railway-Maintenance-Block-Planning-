@@ -1,0 +1,4 @@
+﻿block_id,section,date,start_time,end_time,maximum_duration,status
+BLK-01,WL-BZA,2026-08-30,13:00,15:00,2.0,Available
+BLK-02,SEC-KZJ,2026-08-30,11:30,14:00,2.5,Available
+BLK-03,KZJ-WL,2026-08-30,12:00,14:00,2.0,Available
